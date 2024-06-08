@@ -1,0 +1,46 @@
+body{
+  font-family: arial,bold;
+  line-height: 1.8
+  margin :0;
+  background-color: #c0cccb;
+}
+header{
+  background-color: grey;
+  color : white;
+  text-align: center;
+  padding: 1rem 0;
+}
+header h1{
+  margin: 0;
+}
+nav ul{
+  list-style: square;
+  padding: 0;
+}
+nav ul li{
+  color :#fff;
+  text-decoration: black;
+}
+main{
+  padding: 30px;
+}
+section{
+  margin-bottom: 30px;
+}
+section h2{
+  color:BLACK;
+}
+section p{
+  color :light black;
+}
+footer{
+  text-align: center;
+  background-color: darkgrey;
+  bottom:0;
+  
+}
+a button{
+  color :red;
+}
+
+
